@@ -1,0 +1,122 @@
+[
+  {
+    "Name": "Gaming PC",
+    "CodeNumber": "BAR123456789",
+    "Details": "Details of the Gaming PC",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "Samsung Phone",
+    "CodeNumber": "BAR987654321",
+    "Details": "Details of the Samsung Phone",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "Apple MacBook",
+    "CodeNumber": "BAR543216789",
+    "Details": "Details of the Apple MacBook",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "Dell Monitor",
+    "CodeNumber": "BAR987654321",
+    "Details": "Details of the Dell Monitor",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "Sony TV",
+    "CodeNumber": "BAR123450987",
+    "Details": "Details of the Sony TV",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "HP Printer",
+    "CodeNumber": "BAR543210987",
+    "Details": "Details of the HP Printer",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "Canon Camera",
+    "CodeNumber": "BAR123459876",
+    "Details": "Details of the Canon Camera",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "LG Refrigerator",
+    "CodeNumber": "BAR987651234",
+    "Details": "Details of the LG Refrigerator",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "Bose Headphones",
+    "CodeNumber": "BAR543219876",
+    "Details": "Details of the Bose Headphones",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "Nike Shoes",
+    "CodeNumber": "BAR123456789",
+    "Details": "Details of the Nike Shoes",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "Adidas Backpack",
+    "CodeNumber": "BAR987654321",
+    "Details": "Details of the Adidas Backpack",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "Microsoft Xbox",
+    "CodeNumber": "BAR543216789",
+    "Details": "Details of the Microsoft Xbox",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "PlayStation 5",
+    "CodeNumber": "BAR987654321",
+    "Details": "Details of the PlayStation 5",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "Nintendo Switch",
+    "CodeNumber": "BAR123450987",
+    "Details": "Details of the Nintendo Switch",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "GoPro Camera",
+    "CodeNumber": "BAR543210987",
+    "Details": "Details of the GoPro Camera",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "Fitbit Smartwatch",
+    "CodeNumber": "BAR123459876",
+    "Details": "Details of the Fitbit Smartwatch",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "Google Pixel Phone",
+    "CodeNumber": "BAR987651234",
+    "Details": "Details of the Google Pixel Phone",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "Amazon Echo",
+    "CodeNumber": "BAR543219876",
+    "Details": "Details of the Amazon Echo",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "Samsung TV",
+    "CodeNumber": "BAR123456789",
+    "Details": "Details of the Samsung TV",
+    "Image": "https://picsum.photos/300"
+  },
+  {
+    "Name": "Lenovo Laptop",
+    "CodeNumber": "BAR987654321",
+    "Details": "Details of the Lenovo Laptop",
+    "Image": "https://picsum.photos/300"
+  }
+]
